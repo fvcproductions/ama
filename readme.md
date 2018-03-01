@@ -2,9 +2,9 @@
 
 Hi, I'm **Frances**. 😊
 
-My personal logo happens to be a chocolate dipped strawberry - I'm very proud of this factoid. 🍓 🍫
+🍫🍓️ My personal logo happens to be a chocolate dipped strawberry - I'm very proud of this factoid. 
 
-On the webs, you can find me through the alias **["FVCproductions"](https://www.google.com/search?q=fvcproductions)**. 🌐
+🌐On the webs, you can find me through the alias **[FVCproductions](https://www.google.com/search?q=fvcproductions)**. 
 
 ## [Ask a question](../../issues/new) 💬 &nbsp; &nbsp; &nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden) 📖
 
