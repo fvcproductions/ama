@@ -14,15 +14,6 @@ Instead of limiting answers to email threads, this repo allows anyone to view th
 
 **Anything** means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-### Here are some topics I think I know a lot about:
-- coding bootcamps 🎒
-- getting started as a developer 🍏
-- fancy dev workflows/tooling 💻
-- web design 🎨
-- Fullstack Academy (proud alum) 🖖🏽
-- being a double minority in tech (Latina) 🇵🇪
-- how friggin' annoying it is to republish stuff 🙄
-
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
